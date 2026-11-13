@@ -6,7 +6,7 @@
    viewBox="0 0 121.82 121.82"
    id="svg5806"
    sodipodi:docname="add.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,10 +26,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2946622"
-     inkscape:cx="120.49475"
-     inkscape:cy="198.50738"
+     inkscape:cx="246.78252"
+     inkscape:cy="198.89358"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -42,7 +42,7 @@
        x2="33.624"
        y1="110.98"
        y2="32.52"
-       gradientTransform="translate(-1.7496e-6 -1.7496e-6)"
+       gradientTransform="translate(-99.321276,-11.240062)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#aaa"
@@ -83,22 +83,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     cx="60.911"
-     cy="60.911"
-     r="55.562"
-     color="#000000"
-     color-rendering="auto"
-     fill="url(#linearGradient871)"
-     image-rendering="auto"
-     shape-rendering="auto"
-     solid-color="#000000"
-     stroke="url(#linearGradient879)"
-     stroke-width="7.9375"
-     style="isolation:auto;mix-blend-mode:normal;paint-order:markers fill stroke;stroke:#238926;stroke-opacity:1"
-     id="circle5802" />
   <path
-     d="m66.331 17.938h-10.84l3.67e-4 37.553h-37.554v10.84l37.553-2e-6 3.64e-4 37.553h10.84l3.64e-4 -37.553 37.553 2e-6v-10.84h-37.554z"
+     d="M 71.911836,5.0631292 H 49.910715 L 49.911459,49.91 H 5.0623865 v 22.001998 l 44.8470425,-5e-6 7.39e-4,44.846877 H 71.91129 l 7.39e-4,-44.846877 44.847041,5e-6 V 49.91 H 71.91 Z"
      color="#000000"
      color-rendering="auto"
      fill="#238926"
@@ -106,7 +92,8 @@
      shape-rendering="auto"
      solid-color="#000000"
      stroke="#16632b"
-     stroke-width="1.3229"
-     style="isolation:auto;mix-blend-mode:normal;paint-order:markers fill stroke;stroke:none"
-     id="path5804" />
+     stroke-width="1.32291"
+     style="isolation:auto;mix-blend-mode:normal;stroke:none;paint-order:markers fill stroke"
+     id="path5804"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>
